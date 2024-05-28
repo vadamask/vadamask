@@ -7,7 +7,7 @@
 
 - 💬 Telegram **@vadamask**
 
-- 📫 How to reach me **vadamask@gmail.com**
+- 📫 How to reach me **vadamask@yandex.ru**
 
 - ⚡ Fun fact **I really like to play guitar 🎸**
 
