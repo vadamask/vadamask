@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vadim</h1>
 <h3 align="center">A passionate iOS developer from Tula, Russia</h3>
 
-- 🌱 I’m currently learning **SwiftUI, Combine**
+- 🌱 I’m currently work in Konvapps
 
 - 👯 I’m looking to collaborate on [Swift](https://github.com/apple/swift)
 
 - 💬 Telegram **@vadamask**
 
-- 📫 How to reach me **vadamask@yandex.ru**
+- 📫 How to reach me **vadamask@gmail.com**
 
 - ⚡ Fun fact **I really like to play guitar 🎸**
 
